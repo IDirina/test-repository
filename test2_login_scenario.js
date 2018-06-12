@@ -1,4 +1,4 @@
-//задание 2 поиск элементов
+//задание 3 login
 
 var webdriver = require ('selenium-webdriver'),
     By = webdriver.By,
